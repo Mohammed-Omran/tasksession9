@@ -1,4 +1,4 @@
-'''
+```
  function calculate(num1, num2, method) {
     if (method === "sum") {
        var result = num1 + num2;
@@ -21,4 +21,5 @@ calculate(8 , 2 ,"sub");
 calculate(8 , 2 ,"multi");  
 calculate(8 , 2 ,"divide"); 
 calculate(8 , 2 ,"unknown"); 
-'''
+```
+
