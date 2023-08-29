@@ -16,6 +16,7 @@
        console.log("Unknown Method, Try Again");
     }
  }
+
 calculate(8 , 2 ,"sum");    
 calculate(8 , 2 ,"sub");    
 calculate(8 , 2 ,"multi");  
