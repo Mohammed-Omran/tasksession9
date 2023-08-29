@@ -1,3 +1,4 @@
+## An example of arithmetic operations for two numbers
 ```
  function calculate(num1, num2, method) {
     if (method === "sum") {
